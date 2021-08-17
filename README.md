@@ -22,3 +22,6 @@ netlify deploy --> create and configure .
 netlify deploy --prod
 
 creates `.netlify/state.json``` to store the siteID
+
+
+git remote add origin $GITURL
